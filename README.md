@@ -1,6 +1,3 @@
-![En-tête Animé](https://github.com/Wilsunrise/Wilsunrise/assets/152748586/567f2293-22ef-4592-aa57-5587a2514907)
-
-
 ### Even the darkest night will end, and the sun will rise. ☀️</td>
 
 <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
