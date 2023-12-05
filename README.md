@@ -1,3 +1,5 @@
+![En-tête Animé](https://i.gifer.com/4Cb2.gif)
+
 ### Even the darkest night will end, and the sun will rise. ☀️</td>
 
 <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
@@ -14,15 +16,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](URL_DE_VOTRE_TWITTER)
-
-
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Wilsunrise&theme=highcontrast&show_icons=true)
 
 ![Contributions GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Wilsunrise&theme=solarized-dark)
 
-
+![Visites](https://komarev.com/ghpvc/?username=Wilsunrise&color=yellow)
 
 ---
 ⭐️ From [Wilsunrise](https://github.com/Wilsunrise)
