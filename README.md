@@ -1,4 +1,5 @@
-### Even the darkest night will end, and the sun will rise. ☀️</td>
+### Even the darkest night will end, and the sun will rise. ☀️
+<!-- QUOTE_GOES_HERE -->
 
 <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
 
@@ -8,8 +9,6 @@
 <p><em>Illuminating my connections on my shiny LinkedIn : <a href="https://www.linkedin.com/in/wilson-sevou-7aba1a295/">Wilson Sevou</a<img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2"width="30"></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wilson-sevou-7aba1a295/)
-  
-<!-- QUOTE_GOES_HERE -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
