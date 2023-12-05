@@ -1,5 +1,8 @@
 ### Even the darkest night will end, and the sun will rise.☀️
 
+<div style="border: 5px solid; border-image: linear-gradient(to right, red, orange, yellow) 1;">
+
+
 <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
 
 <h2> Hi, I'm Wilson! <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/b4da65b7-65e4-4769-8dbf-196a6b194afd" width="50"></h2>
@@ -8,6 +11,9 @@
 <p><em>Illuminating my connections on my shiny LinkedIn : <a href="https://www.linkedin.com/in/wilson-sevou-7aba1a295/">Wilson Sevou</a<img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2"width="30"></br>
   
 "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
+
+</div>
+
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Wilsunrise&theme=highcontrast&show_icons=true)
 
