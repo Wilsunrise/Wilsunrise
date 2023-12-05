@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
 
-## Citation du jour ☀️
+## Citation du jour 🌅
 
 Chaque jour, une nouvelle citation inspirante sur le soleil
 <!-- QUOTE_GOES_HERE -->
