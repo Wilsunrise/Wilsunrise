@@ -1,5 +1,4 @@
 ### Even the darkest night will end, and the sun will rise. ☀️
-<!-- QUOTE_GOES_HERE -->
 
 <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
 
@@ -12,6 +11,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+<!-- QUOTE_GOES_HERE -->
+
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Wilsunrise&theme=highcontrast&show_icons=true)
 
