@@ -12,8 +12,7 @@ with open('README.md', 'r') as file:
     readme_contents = file.read()
 
 # Construire le nouveau contenu du README
-# Supposons que vous avez un placeholder dans votre README où vous voulez la citation aléatoire
-# Par exemple: <!-- QUOTE_GOES_HERE -->
+# Assurons-nous que le placeholder correspond exactement à celui dans le README.md
 new_readme_contents = readme_contents.replace('<!-- QUOTE_GOES_HERE -->', quote)
 
 # Écrire le nouveau contenu dans le README
