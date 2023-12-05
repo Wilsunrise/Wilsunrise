@@ -1,10 +1,10 @@
-### Even the darkest night will end, and the sun will rise.☀️
+### Even the darkest night will end, and the sun will rise. ☀️
 
-<img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
+![Sunrise Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fsun-wallpapers&psig=AOvVaw0ljbP7KDPqcYrL5-htLu8u&ust=1701894713694000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKijloGS-YIDFQAAAAAdAAAAABAE)
 
-<h2> Hi, I'm Wilson! <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/b4da65b7-65e4-4769-8dbf-196a6b194afd" width="50"></h2>
-<img align='right' src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2" width="230">
-<p><em>I'm on a radiant engineering training journey at <a href="http://https://www.estia.fr/">ESTIA</a<img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2"width="30"></br>
-<p><em>Illuminating my connections on my shiny LinkedIn : <a href="https://www.linkedin.com/in/wilson-sevou-7aba1a295/">Wilson Sevou</a<img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2"width="30"></br>
-  
+<h2> Hi, I'm Wilson! <img src="URL_DE_VOTRE_IMAGE_EMOJI" width="50"></h2>
+<img align='right' src="URL_DE_VOTRE_IMAGE_PROFIL" width="230">
+<p><em>I'm on a radiant engineering training journey at <a href="https://www.estia.fr/">ESTIA</a><img src="URL_DE_VOTRE_IMAGE_ESTIA" width="30"></em></p>
+<p><em>Illuminating my connections on my shiny LinkedIn: <a href="https://www.linkedin.com/in/wilson-sevou-7aba1a295/">Wilson Sevou</a><img src="URL_DE_VOTRE_IMAGE_LINKEDIN" width="30"></em></p>
+
 "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
