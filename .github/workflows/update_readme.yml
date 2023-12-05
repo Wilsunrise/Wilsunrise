@@ -3,24 +3,22 @@ name: Update README with Random Quote
 on:
   schedule:
     # Planifiez l'exécution à 00h00 chaque jour (UTC)
-    - cron:  '0 0 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-    - name: Update README
-      run: python update_readme.py
-    - name: Commit and push if changed
-      run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git diff
-        git add -A
-        git commit -m "Update README with random quote" || exit 0
-        git push
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Update README
+        run: python update_readme.py
+      - name: Commit and push if changes
+        run: |
+          git config --global user.email "wilson.sevou@etu.estia.fr"
+          git config --global user.name "Wilsunrise"
+          git diff --quiet || (git add README.md && git commit -m "Updated README with a random quote" && git push)
+
