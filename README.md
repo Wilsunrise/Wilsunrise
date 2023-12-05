@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wilson-sevou-7aba1a295/)
   
-"Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
+<!-- QUOTE_GOES_HERE -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
