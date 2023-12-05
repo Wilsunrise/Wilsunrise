@@ -9,6 +9,7 @@
   
 "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Wilsunrise&theme=highcontrast&show_icons=true)
 
