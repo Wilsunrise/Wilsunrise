@@ -9,7 +9,20 @@
   
 "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wilson-sevou-7aba1a295/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](URL_DE_VOTRE_TWITTER)
+
+
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Wilsunrise&theme=highcontrast&show_icons=true)
 
 ![Contributions GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Wilsunrise&theme=solarized-dark)
+
+
+
+---
+⭐️ From [Wilsunrise](https://github.com/Wilsunrise)
 
