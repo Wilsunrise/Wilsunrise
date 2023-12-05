@@ -12,6 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
+## Citation du jour ☀️
+
+Chaque jour, une nouvelle citation inspirante sur le soleil
 <!-- QUOTE_GOES_HERE -->
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Wilsunrise&theme=highcontrast&show_icons=true)
