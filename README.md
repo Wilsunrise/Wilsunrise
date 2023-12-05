@@ -6,14 +6,15 @@
 <img align='right' src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2" width="230">
 <p><em>I'm on a radiant engineering training journey at <a href="http://https://www.estia.fr/">ESTIA</a<img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2"width="30"></br>
 <p><em>Illuminating my connections on my shiny LinkedIn : <a href="https://www.linkedin.com/in/wilson-sevou-7aba1a295/">Wilson Sevou</a<img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2"width="30"></br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wilson-sevou-7aba1a295/)
   
 "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wilson-sevou-7aba1a295/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](URL_DE_VOTRE_TWITTER)
 
 
