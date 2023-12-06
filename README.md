@@ -5,7 +5,7 @@
 ## Citation du jour 🌅
 
 Chaque jour, une nouvelle citation inspirante sur le soleil
-<!-- QUOTE_GOES_HERE -->
+"Le soleil est l'énergie ultime, le moteur de la vie."
 
 <h2> Hi, I'm Wilson! <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/b4da65b7-65e4-4769-8dbf-196a6b194afd" width="50"></h2>
 <img align='right' src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2" width="230">
