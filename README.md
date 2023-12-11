@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/9a07a07f-82c2-4b8a-a66b-a309e5e980d7">
 
-<!-- QUOTE_GOES_HERE -->
+"Le soleil enseigne que le succès est la meilleure revanche."
 
 <h2> Hi, I'm Wilson! <img src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/b4da65b7-65e4-4769-8dbf-196a6b194afd" width="50"></h2>
 <img align='right' src="https://github.com/Wilsunrise/Wilsunrise/assets/152748586/0d6fdcf0-eb0f-4f17-b425-f55ffa60fdb2" width="230">
