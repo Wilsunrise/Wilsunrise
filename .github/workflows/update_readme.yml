@@ -2,7 +2,6 @@ name: Update README with Random Quote
 
 on:
   schedule:
-    # Planifiez l'exécution à 00h00 chaque jour (UTC)
     - cron: '0 0 * * *'
 
 jobs:
